@@ -9,7 +9,7 @@ export class Page1 implements OnInit{
   ngOnInit():any {
     this.platform.ready().then(()=>{
       var push = PushNotification.init({ "android": {"senderID": "504253084870"},
-        "ios": {"senderID": "504253084870", "alert": "true", "badge": "true", "sound": "true"}, "windows": {} } );
+        "ios": {"senderID": "504253084870", "gcmSandbox": true, "alert": "true", "badge": "true", "sound": "true"}, "windows": {} } );
 
       push.on('registration', (data) => {
         this.registrationId = data.registrationId;

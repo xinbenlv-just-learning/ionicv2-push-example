@@ -63,7 +63,7 @@ curl --header "Authorization: key=AIzaSyBfM6DjLfcLGAynpjysSjzjl13FlME1lLM" \
 
 curl --header "Authorization: key=AIzaSyBfM6DjLfcLGAynpjysSjzjl13FlME1lLM" \
 --header "Content-Type: application/json" https://fcm.googleapis.com/fcm/send \
--d "{\"registration_ids\":[\"lGtNsh204xo:APA91bEZ-ioRvn8v-_BvXGcS7oFar1_2Iq5UbYDF2xVxMDi9HGLxgu2iJTZy9jmINYo3ouuPr1WRcRn8W5VqMgOI97qQDGBWDOBAaJFWXAfKQQdFeHdDO84KNczDKFUtiIPQ2KptkAfJ\"],\"notification\":{\"title\":\"good notification 8 body gcm\",\"title\":\"really good\"}}"
+-d "{\"registration_ids\":[\"lGtNsh204xo:APA91bEZ-ioRvn8v-_BvXGcS7oFar1_2Iq5UbYDF2xVxMDi9HGLxgu2iJTZy9jmINYo3ouuPr1WRcRn8W5VqMgOI97qQDGBWDOBAaJFWXAfKQQdFeHdDO84KNczDKFUtiIPQ2KptkAfJ\"],\"notification\":{\"title\":\"good notification 8 body gcm\",\"body\":\"really good\"}}"
 
 
 
