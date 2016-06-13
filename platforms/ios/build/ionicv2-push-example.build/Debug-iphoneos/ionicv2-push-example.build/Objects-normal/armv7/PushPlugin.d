@@ -1,0 +1,35 @@
+dependencies: \
+  /Users/zzn/Documents/ws/ionicv2-push-example/platforms/ios/ionicv2-push-example/Plugins/phonegap-plugin-push/PushPlugin.m \
+  /Users/zzn/Documents/ws/ionicv2-push-example/platforms/ios/ionicv2-push-example/Plugins/phonegap-plugin-push/PushPlugin.h \
+  /Users/zzn/Documents/ws/ionicv2-push-example/platforms/ios/build/device/include/Cordova/CDV.h \
+  /Users/zzn/Documents/ws/ionicv2-push-example/platforms/ios/build/device/include/Cordova/CDVAvailability.h \
+  /Users/zzn/Documents/ws/ionicv2-push-example/platforms/ios/build/device/include/Cordova/CDVAvailabilityDeprecated.h \
+  /Users/zzn/Documents/ws/ionicv2-push-example/platforms/ios/build/device/include/Cordova/CDVAppDelegate.h \
+  /Users/zzn/Documents/ws/ionicv2-push-example/platforms/ios/build/device/include/Cordova/CDVViewController.h \
+  /Users/zzn/Documents/ws/ionicv2-push-example/platforms/ios/build/device/include/Cordova/CDVInvokedUrlCommand.h \
+  /Users/zzn/Documents/ws/ionicv2-push-example/platforms/ios/build/device/include/Cordova/CDVCommandDelegate.h \
+  /Users/zzn/Documents/ws/ionicv2-push-example/platforms/ios/build/device/include/Cordova/CDVCommandQueue.h \
+  /Users/zzn/Documents/ws/ionicv2-push-example/platforms/ios/build/device/include/Cordova/CDVScreenOrientationDelegate.h \
+  /Users/zzn/Documents/ws/ionicv2-push-example/platforms/ios/build/device/include/Cordova/CDVPlugin.h \
+  /Users/zzn/Documents/ws/ionicv2-push-example/platforms/ios/build/device/include/Cordova/CDVPluginResult.h \
+  /Users/zzn/Documents/ws/ionicv2-push-example/platforms/ios/build/device/include/Cordova/NSMutableArray+QueueAdditions.h \
+  /Users/zzn/Documents/ws/ionicv2-push-example/platforms/ios/build/device/include/Cordova/CDVWebViewEngineProtocol.h \
+  /Users/zzn/Documents/ws/ionicv2-push-example/platforms/ios/build/device/include/Cordova/CDVURLProtocol.h \
+  /Users/zzn/Documents/ws/ionicv2-push-example/platforms/ios/build/device/include/Cordova/CDVWhitelist.h \
+  /Users/zzn/Documents/ws/ionicv2-push-example/platforms/ios/build/device/include/Cordova/CDVTimer.h \
+  /Users/zzn/Documents/ws/ionicv2-push-example/platforms/ios/build/device/include/Cordova/CDVUserAgentUtil.h \
+  /Users/zzn/Documents/ws/ionicv2-push-example/platforms/ios/ionicv2-push-example/Plugins/phonegap-plugin-push/GCM/Headers/CloudMessaging.h \
+  /Users/zzn/Documents/ws/ionicv2-push-example/platforms/ios/ionicv2-push-example/Plugins/phonegap-plugin-push/GCM/Headers/Core.h \
+  /Users/zzn/Documents/ws/ionicv2-push-example/platforms/ios/ionicv2-push-example/Plugins/phonegap-plugin-push/GCM/Headers/GGLConfiguration.h \
+  /Users/zzn/Documents/ws/ionicv2-push-example/platforms/ios/ionicv2-push-example/Plugins/phonegap-plugin-push/GCM/Headers/GGLContext.h \
+  /Users/zzn/Documents/ws/ionicv2-push-example/platforms/ios/ionicv2-push-example/Plugins/phonegap-plugin-push/GCM/Headers/GGLErrorCode.h \
+  /Users/zzn/Documents/ws/ionicv2-push-example/platforms/ios/ionicv2-push-example/Plugins/phonegap-plugin-push/GCM/Headers/GCMConfig.h \
+  /Users/zzn/Documents/ws/ionicv2-push-example/platforms/ios/ionicv2-push-example/Plugins/phonegap-plugin-push/GCM/Headers/GCMPubSub.h \
+  /Users/zzn/Documents/ws/ionicv2-push-example/platforms/ios/ionicv2-push-example/Plugins/phonegap-plugin-push/GCM/Headers/GCMService.h \
+  /Users/zzn/Documents/ws/ionicv2-push-example/platforms/ios/ionicv2-push-example/Plugins/phonegap-plugin-push/GCM/Headers/GGLContext+CloudMessaging.h \
+  /Users/zzn/Documents/ws/ionicv2-push-example/platforms/ios/ionicv2-push-example/Plugins/phonegap-plugin-push/GCM/Headers/GGLInstanceIDHeaders.h \
+  /Users/zzn/Documents/ws/ionicv2-push-example/platforms/ios/ionicv2-push-example/Plugins/phonegap-plugin-push/GCM/Headers/GGLInstanceID.h \
+  /Users/zzn/Documents/ws/ionicv2-push-example/platforms/ios/ionicv2-push-example/Plugins/phonegap-plugin-push/GCM/Headers/GGLInstanceIDConfig.h \
+  /Users/zzn/Documents/ws/ionicv2-push-example/platforms/ios/ionicv2-push-example/Plugins/phonegap-plugin-push/GCM/Headers/GGLInstanceIDDelegate.h \
+  /Users/zzn/Documents/ws/ionicv2-push-example/platforms/ios/ionicv2-push-example/Plugins/phonegap-plugin-push/GCM/Headers/GoogleCloudMessaging.h \
+  /Users/zzn/Documents/ws/ionicv2-push-example/platforms/ios/ionicv2-push-example/Plugins/phonegap-plugin-push/GCM/Headers/GCMReceiverDelegate.h

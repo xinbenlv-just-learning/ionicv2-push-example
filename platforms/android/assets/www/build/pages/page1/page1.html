@@ -1,0 +1,20 @@
+<ion-navbar *navbar>
+  <ion-title>Tab 1</ion-title>
+</ion-navbar>
+
+<ion-content padding class="page1">
+    <ion-item>
+        Registration Id
+    </ion-item>
+    <ion-item>
+        <ion-textarea value="{{registrationId}}">
+
+        </ion-textarea>
+    </ion-item>
+    <ion-item>
+      Error: {{error}}
+    </ion-item>
+    <ion-item *ngFor="let data of dataList">
+      {{JSON.stringify(data)}}
+    </ion-item>
+</ion-content>
